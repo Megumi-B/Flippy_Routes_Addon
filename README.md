@@ -1,7 +1,7 @@
 ### Flippy 報站程式 路線Addon
 
 #### 目前項目 Current Project
-##### [香港中文大學 穿梭校巴](https://github.com/Megumi-B/Flippy_Routes_Addon/releases/tag/CU_v1)<br>
+##### [香港中文大學 穿梭校巴](https://github.com/Megumi-B/Flippy_Routes_Addon/releases/tag/CU_v1.1)【24Feb2023更新至v1.1】<br>
 <img src="https://github.com/Megumi-B/Flippy_Routes_Addon/raw/main/Image/CUSchBus_Addon.png" width="30%"><br>
 
 #### 下載 Download
